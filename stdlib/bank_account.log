@@ -1,0 +1,3 @@
+# Logfile created on 2013-01-20 13:58:37 -0500 by logger.rb/31641
+I, [2013-01-20T14:00:07.417175 #93865]  INFO -- BankAccount (Jason Seifer): Depositing 100
+I, [2013-01-20T14:00:07.418511 #93865]  INFO -- BankAccount (Jason Seifer): Withdrawing 50
